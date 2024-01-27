@@ -19,9 +19,4 @@ spec:
           cpu: 1000m
           memory: 0.5Gi
            containers:
-    - name: nginx2
-      image: nginx
-      resources:
-        limits:
-          cpu: 1000m
-          memory: 0.5Gi
+    
